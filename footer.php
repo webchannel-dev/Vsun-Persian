@@ -22,8 +22,8 @@
                 <div id="recentPostsSidebar_widget">
                     <h2>امکانات گوشی</h2>
                     <ul class="recentposts_listing">
-                        <li><a href="vsunl1.php">ویسان ل۱</a></li>
-                        <li><a href="vsunl2.php">ویسان ل۲</a></li>
+                        <li><a href="vsunl1.php">فيسن ل۱</a></li>
+                        <li><a href="vsunl2.php">فيسن ل۲</a></li>
                     </ul>
                 </div>
             </div>
@@ -31,11 +31,11 @@
                 <div id="recentPostsSidebar_widget">
                     <h2>گوشیهای هوشمند</h2>
                     <ul class="recentposts_listing">
-                        <li><a href="hexa.php">ویسان هگزا</a></li>
-                        <li><a href="vsunv9.php">ویسان وی۹</a></li>
-                        <li><a href="vsunv5.php">ویسان وی۵</a></li>
-                        <li><a href="vsunv3.php">ویسان وی۳</a></li>
-                        <li><a href="vsunv3c.php">ویسان وی۳سی</a></li>
+                        <li><a href="hexa.php">فيسن هگزا</a></li>
+                        <li><a href="vsunv9.php">فيسن وی۹</a></li>
+                        <li><a href="vsunv5.php">فيسن وی۵</a></li>
+                        <li><a href="vsunv3.php">فيسن وی۳</a></li>
+                        <li><a href="vsunv3c.php">فيسن وی۳سی</a></li>
                     </ul>
                 </div>
             </div>
@@ -76,7 +76,7 @@
         <div class="container">
 
             <div class="copys_left eight columns">
-                2014 © کپی رایت کلیه حقوق این سایت متعلق به ویسان می باشد<br/>
+                2014 © کپی رایت کلیه حقوق این سایت متعلق به فيسن می باشد<br/>
             </div>
             <div class="copys_right eight columns">
                 <div class="footer_right_content">

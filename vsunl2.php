@@ -10,7 +10,7 @@
         <meta content="width=device-width, initial-scale=1.0, maximum-scale=1" name="viewport">
         <meta name="keywords" content="YOUR KEYWORDS">
         <meta name="description" content="YOUR DESCRIPTION"/>
-        <title>خوش آمدید به صفحه ویسان</title>
+        <title>خوش آمدید به صفحه فيسن</title>
 
         <!-- favicon -->
         <link rel="shortcut icon" href="favicon.ico">
@@ -116,18 +116,18 @@
                                             <li style="white-space: normal; float: right; width: 100%;"><a href="#" class="sf-with-ul" style="float: none; width: auto; direction: rtl;text-align: right;">گوشیهای هوشمند<span class="sf-sub-indicator">
                                                         <i class="fa fa-angle-down"></i></span></a>
                                                 <ul class="sub-menu" style="right: 10.284615384615387em; float: none; width: 10em; display: none; visibility: hidden;">
-                                                    <li style="white-space: normal; float: right; width: 100%;"><a href="hexa.php" style="float: none; width: auto;">ویسان هگزا</a></li>
-                                                    <li style="white-space: normal; float: right; width: 100%;"><a href="vsunv9.php" style="float: none; width: auto;">ویسان وی۹</a></li>
-                                                    <li style="white-space: normal; float: right; width: 100%;"><a href="vsunv5.php" style="float: none; width: auto;">ویسان وی۵</a></li>
-                                                    <li style="white-space: normal; float: right; width: 100%;"><a href="vsunv3.php" style="float: none; width: auto;">ویسان وی۳</a></li>
-                                                    <li style="white-space: normal; float: right; width: 100%;"><a href="vsunv3c.php" style="float: none; width: auto;">ویسان وی۳سی</a></li>
+                                                    <li style="white-space: normal; float: right; width: 100%;"><a href="hexa.php" style="float: none; width: auto;">فيسن هگزا</a></li>
+                                                    <li style="white-space: normal; float: right; width: 100%;"><a href="vsunv9.php" style="float: none; width: auto;">فيسن وی۹</a></li>
+                                                    <li style="white-space: normal; float: right; width: 100%;"><a href="vsunv5.php" style="float: none; width: auto;">فيسن وی۵</a></li>
+                                                    <li style="white-space: normal; float: right; width: 100%;"><a href="vsunv3.php" style="float: none; width: auto;">فيسن وی۳</a></li>
+                                                    <li style="white-space: normal; float: right; width: 100%;"><a href="vsunv3c.php" style="float: none; width: auto;">فيسن وی۳سی</a></li>
                                                 </ul>
                                             </li>
                                             <li style="white-space: normal; float: right; width: 100%;"><a href="#" class="sf-with-ul" style="float: none; width: auto;">امکانات گوشی<span class="sf-sub-indicator">
                                                         <i class="fa fa-angle-down"></i></span></a>
                                                 <ul class="sub-menu" style="right: 10.284615384615387em; float: none; width: 10em; display: none; visibility: hidden;">
-                                                    <li style="white-space: normal; float: right; width: 100%;"><a href="vsunl1.php" style="float: none; width: auto;">ویسان ل۱</a></li>
-                                                    <li style="white-space: normal; float: right; width: 100%;"><a href="vsunl2.php" style="float: none; width: auto;">ویسان ل۲ </a></li>
+                                                    <li style="white-space: normal; float: right; width: 100%;"><a href="vsunl1.php" style="float: none; width: auto;">فيسن ل۱</a></li>
+                                                    <li style="white-space: normal; float: right; width: 100%;"><a href="vsunl2.php" style="float: none; width: auto;">فيسن ل۲ </a></li>
                                                 </ul>
                                             </li>
                                             <li style="white-space: normal; float: left; width: 100%;"><a href="#" class="sf-with-ul" style="float: none; width: auto;">لوازم جانبی<span class="sf-sub-indicator">
@@ -151,13 +151,13 @@
                                         <option value="">منو موبایل	</option>
                                         <option value="aboutus.php">درباره ما</option>
                                         <option value="#">محصولات</option>
-                                        <option value="hexa.php">ویسان هگزا</option>
-                                        <option value="vsunv9.php">ویسان وی۹</option>  
-                                        <option value="vsunv5.php">ویسان وی۵</option>
-                                        <option value="vsunv3.php">ویسان وی۳</option>
-                                        <option value="vsunv3c.php">ویسان وی۳سی</option>
-                                        <option value="vsunl1.php">ویسان ل۱</option>
-                                        <option value="vsunl2.php">ویسان ل۲ </option>
+                                        <option value="hexa.php">فيسن هگزا</option>
+                                        <option value="vsunv9.php">فيسن وی۹</option>  
+                                        <option value="vsunv5.php">فيسن وی۵</option>
+                                        <option value="vsunv3.php">فيسن وی۳</option>
+                                        <option value="vsunv3c.php">فيسن وی۳سی</option>
+                                        <option value="vsunl1.php">فيسن ل۱</option>
+                                        <option value="vsunl2.php">فيسن ل۲ </option>
                                         <option value="Battery.php">باتری</option>  
                                         <option value="Charger.php">شارژر</option>
                                         <option value="Cover.php">پوشش</option>
@@ -183,7 +183,7 @@
                                 &nbsp;>&nbsp;
                                 <a href="#">گوشیهای هوشمند</a>
                                 &nbsp;>&nbsp;
-                                <a href="vsunl2.php">ویسان ل۲ </a>
+                                <a href="vsunl2.php">فيسن ل۲ </a>
 
                             </span>
                         </div>
@@ -234,7 +234,7 @@
                                                 <td width="235"><strong><font><font><font><font>شرح</font></font></font></font></strong></td>
                                             </tr>
                                             <tr>
-                                                <td><font><font><font><font>ویسان مدل&nbsp;</font></font></font></font></td>
+                                                <td><font><font><font><font>فيسن مدل&nbsp;</font></font></font></font></td>
                                                 <td><font><font><font><font>L2</font></font></font></font></td>
                                                 <td><font><font><font><font>2.8 PDA تلفن</font></font></font></font></td>
                                             </tr>
@@ -422,8 +422,8 @@
                                     <div id="recentPostsSidebar_widget">
                                         <h2>امکانات گوشی</h2>
                                         <ul class="recentposts_listing">
-                                            <li><a href="vsunl1.php">ویسان ل۱</a></li>
-                                            <li><a href="vsunl2.php">ویسان ل۲ </a></li>
+                                            <li><a href="vsunl1.php">فيسن ل۱</a></li>
+                                            <li><a href="vsunl2.php">فيسن ل۲ </a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -431,11 +431,11 @@
                                     <div id="recentPostsSidebar_widget">
                                         <h2>گوشیهای هوشمند</h2>
                                         <ul class="recentposts_listing">
-                                            <li><a href="hexa.php">ویسان هگزا</a></li>
-                                            <li><a href="vsunv9.php">ویسان وی۹</a></li>
-                                            <li><a href="vsunv5.php">ویسان وی۵</a></li>
-                                            <li><a href="vsunv3.php">ویسان وی۳</a></li>
-                                            <li><a href="vsunv3c.php">ویسان وی۳سی</a></li>
+                                            <li><a href="hexa.php">فيسن هگزا</a></li>
+                                            <li><a href="vsunv9.php">فيسن وی۹</a></li>
+                                            <li><a href="vsunv5.php">فيسن وی۵</a></li>
+                                            <li><a href="vsunv3.php">فيسن وی۳</a></li>
+                                            <li><a href="vsunv3c.php">فيسن وی۳سی</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -476,7 +476,7 @@
                             <div class="container">
 
                                 <div class="copys_left eight columns">
-                                    2014 © کپی رایت کلیه حقوق این سایت متعلق به ویسان می باشد<br/>
+                                    2014 © کپی رایت کلیه حقوق این سایت متعلق به فيسن می باشد<br/>
                                 </div>
                                 <div class="copys_right eight columns">
                                     <div class="footer_right_content">

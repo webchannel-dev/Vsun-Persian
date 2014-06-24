@@ -9,7 +9,7 @@
         <meta content="width=device-width, initial-scale=1.0, maximum-scale=1" name="viewport">
         <meta name="keywords" content="YOUR KEYWORDS">
         <meta name="description" content="YOUR DESCRIPTION"/>
-        <title>خوش آمدید به صفحه ویسان</title>
+        <title>خوش آمدید به صفحه فيسن</title>
 
         <!-- favicon -->
         <link rel="shortcut icon" href="favicon.ico">
@@ -278,14 +278,14 @@
                     <div class="containerbg" style="background-image: url(img/parallax/bg1.jpg); height:1272px;;">
                         <div class="container">
                             <div>
-                                <img  src="img/parallax/feelslike.jpg" style=" padding-top:100px;">
+                                <img  src="img/parallax/feelslike.jpg" style=" padding-top:50px;">
                             </div>
                         </div>
                     </div>
                     <div class="containerbg"  style="background-image: url(img/parallax/nbg-2.jpg); height:872px;">
                         <div class="container">
                             <div>
-                                <img  src="img/parallax/live.jpg" style=" padding-top:600px;">
+                                <img  src="img/parallax/live.jpg" style=" padding-top:650px; padding-right: 180px;">
                             </div>
                         </div>
                     </div>
@@ -296,7 +296,7 @@
 
                     <div  class="containerbg" style="background-image: url(img/parallax/nbg-4.jpg); height:1350px;">
                         <div class="parallax-content container">
-                            <img  src="img/parallax/capture.jpg" style=" padding-top:80px;">
+                            <img  src="img/parallax/capture.png" style=" padding-top:80px;padding-right: 280px;">
                         </div>
                     </div>
                     <div class="containerbg" style="background-image: url(img/parallax/nbg-5.jpg); height:1126px;">

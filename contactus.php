@@ -9,7 +9,7 @@
         <meta content="width=device-width, initial-scale=1.0, maximum-scale=1" name="viewport">
         <meta name="keywords" content="YOUR KEYWORDS">
         <meta name="description" content="YOUR DESCRIPTION"/>
-        <title>خوش آمدید به صفحه ویسان</title>
+        <title>خوش آمدید به صفحه فيسن</title>
 
 
         <link rel="shortcut icon" href="favicon.ico">
@@ -120,9 +120,9 @@
                                     <ul class='service-items itemsPerRow-3'>
                                         <li class='service-item no-flicker'>
                                             <h2 class="zaptitle"  style="position: relative; right: 43px;"><span>چین دفتر مرکزی </span></h2>
-                                            <p  style="text-align: right; direction: rtl;padding-right: 40px;">شنژن ویسان ارتباطات
+                                            <p  style="text-align: right; direction: rtl;padding-right: 40px;">شنژن فيسن ارتباطات
                                                 <br> شرکت فناوری، با مسئولیت محدود<br>
-                                                شنژن ویسان نرم افزار طراحی شرکت با مسئولیت محدود<br>
+                                                شنژن فيسن نرم افزار طراحی شرکت با مسئولیت محدود<br>
                                                 اتاق ۱۹۰۱/۱۹۰۳ بلوک A، Xiangnian پلازا،<br>
                                                 خیابان کوشان ،شماره ۴۰۶۰<br>
                                                 منطقه نانشان ، شنژن، چین<br><br>
@@ -133,7 +133,7 @@
                                         </li>
                                         <li class='service-item no-flicker'>
                                             <h2 class="zaptitle" style="position: relative; right: 32px;"><span>شعبه هنگ کنگ</span></h2>
-                                            <p style="text-align: right; direction: rtl;padding-right: 30px;">ویسان ارتباطات فناوری محدود<br>
+                                            <p style="text-align: right; direction: rtl;padding-right: 30px;">فيسن ارتباطات فناوری محدود<br>
                                                 دفتر الف ۵/ف ، ساختمان تجاری یونیون ۲۸۳<br>
                                                 خیابان مرکزی کوئنس <br>
                                                 شونگ وان ، هنگ کنگ<br>
@@ -144,7 +144,7 @@
                                         <li class='service-item no-flicker'>
                                             <h2 class="zaptitle" style="margin-right: 80px; position: relative; right: -78px;"><span>دفتر دبی </span></h2>
                                             <p style="text-align: right; direction: rtl;">
-                                                ویسان تجارت الکترونیک مسئولیت محدود<br>
+                                                فيسن تجارت الکترونیک مسئولیت محدود<br>
                                                 شماره ۴۰۲ ، طبقه چهارم،<br>
                                                 برج تجاری الاویس(بانک صادرات ایران ) <br>
                                                 پلاک ۱۶۴ (۱۵۵-۱۴۲) ، <br>

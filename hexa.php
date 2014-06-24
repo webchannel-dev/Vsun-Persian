@@ -9,7 +9,7 @@
         <meta content="width=device-width, initial-scale=1.0, maximum-scale=1" name="viewport">
         <meta name="keywords" content="YOUR KEYWORDS">
         <meta name="description" content="YOUR DESCRIPTION"/>
-        <title>خوش آمدید به صفحه ویسان</title>
+        <title>خوش آمدید به صفحه فيسن</title>
 
         <!-- favicon -->
         <link rel="shortcut icon" href="favicon.ico">
@@ -105,7 +105,7 @@
                                 &nbsp;>&nbsp;
                                 <a href="#">گوشیهای هوشمند</a>
                                 &nbsp;>&nbsp;
-                                <a href="hexa.php">ویسان هگزا</a>
+                                <a href="hexa.php">فيسن هگزا</a>
                             </span>
                         </div>
                     </div>

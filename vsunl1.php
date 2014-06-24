@@ -9,7 +9,7 @@
         <meta content="width=device-width, initial-scale=1.0, maximum-scale=1" name="viewport">
         <meta name="keywords" content="YOUR KEYWORDS">
         <meta name="description" content="YOUR DESCRIPTION"/>
-        <title>خوش آمدید به صفحه ویسان</title>
+        <title>خوش آمدید به صفحه فيسن</title>
 
         <!-- favicon -->
         <link rel="shortcut icon" href="favicon.ico">
@@ -106,7 +106,7 @@
                                 &nbsp;>&nbsp;
                                 <a href="#">گوشیهای هوشمند</a>
                                 &nbsp;>&nbsp;
-                                <a href="vsunl1.php">ویسان ل۱</a>
+                                <a href="vsunl1.php">فيسن ل۱</a>
                             </span>
                         </div>
                     </div>
@@ -153,7 +153,7 @@
                                                 <td width="235"><strong><font><font>شرح</font></font></strong></td>
                                             </tr>
                                             <tr>
-                                                <td><font><font>ویسان مدل&nbsp;</font></font></td>
+                                                <td><font><font>فيسن مدل&nbsp;</font></font></td>
                                                 <td><font><font>L1</font></font></td>
                                                 <td><font><font>بار تلفن</font></font></td>
                                             </tr>
